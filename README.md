@@ -25,60 +25,56 @@
   <img src="https://github.com/j-nollora/j-nollora/blob/0d0522304823b2ae3e4d0cd643ed7ae2d1e35662/assets/line%20green.jpg" width="100%" height="10%" align="right" />
 </div>
 
+<br>
+
+
+### *﹒宅₊ the J-drive ˚∘˚*
+###### ‎  ‎ ‎  ‎ ‎  ‎ ‎  *What I Bring to the Table*
 <table align="center">
   <tr>
     <td>
-      <pre><code>languages: {
-        basics: [
-          "Python",
-          "Java",
-          "JavaScript"
-        ],
-        backend: [
-          "PHP"
-        ]
-      }</code></pre>
+<pre>
+<b>Languages</b><br>
+<i>Fundamentals:</i>
+• Python
+• Java
+• JavaScript<br>
+<i>Backend:</i>
+• PHP
+</pre>
+<img src="https://skillicons.dev/icons?i=py,java,js,php&perline=4" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,java,js,php&perline=1" />
+
+<td>
+<pre>
+<b>Full Stack</b><br>
+<i>Frontend:</i>
+• HTML5
+• CSS3<br>
+<i>Backend & DB:</i>
+• MySQL
+• XAMPP<br>
+<i>Design:</i>
+• UI/UX
+• Graphic Arts
+</pre>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,xampp&perline=3" />
     </td>
-    <td>
-      <pre><code>full_stack: {
-        frontend: [
-          "HTML5",
-          "CSS3"
-        ],
-        backend_db: [
-          "MySQL",
-          "XAMPP"
-        ],
-        design: [
-          "UI/UX",
-          "Graphic Arts"
-        ]
-      }</code></pre>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,mysql,xampp&perline=2" />
-    </td>
-    <td>
-      <pre><code>tools_env: {
-        editors_ides: [
-          "VS Code",
-          "PyCharm",
-          "Eclipse"
-        ],
-        db_management: [
-          "MySQL Workbench"
-        ],
-        deployment: [
-          "GitHub",
-          "Vercel"
-        ]
-      }</code></pre>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,mysql,github,vercel&perline=2" />
+
+<td>
+<pre>
+<b>Tools & Env</b><br>
+<i>IDEs & Editors:</i>
+• VS Code
+• PyCharm
+• Eclipse<br>
+<i>Database Mgmt:</i>
+• MySQL Workbench<br>
+<i>Deployment:</i>
+• GitHub
+• Vercel
+</pre>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,mysql,github,vercel&perline=6" />
     </td>
   </tr>
 </table>
