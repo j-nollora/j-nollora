@@ -28,8 +28,8 @@
 <br>
 
 
-### *﹒宅₊ the J-drive ˚∘˚*
-###### ‎  ‎ ‎  ‎ ‎  ‎ ‎  *What I Bring to the Table*
+### *﹒宅₊ the J-drive ˚∘˚ — What I Bring to the Table*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=500&duration=1000&pause=1000&color=ADFF00&background=5828FF00&center=true&multiline=false&width=1000&height=40&lines=Technology+Stack" alt="Typing SVG" /></a>
 <table align="center">
   <tr>
     <td>
