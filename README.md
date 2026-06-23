@@ -1,4 +1,5 @@
 <img src="https://github.com/j-nollora/j-nollora/blob/0d0522304823b2ae3e4d0cd643ed7ae2d1e35662/assets/line%20green.jpg" width="100%" height="10%" align="right" />
+<br>
 <div align="center">
   <img src="https://github.com/j-nollora/j-nollora/blob/245f59aeb9409d76f232825c98451eaeea612f0a/assets/Motherboard.jpg" width="25%" align="right" />
 
