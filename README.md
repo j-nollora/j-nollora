@@ -29,7 +29,9 @@
 
 
 ### *﹒宅₊ the J-drive ˚∘˚ — What I Bring to the Table*
+#
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=500&duration=1000&pause=1000&color=ADFF00&background=5828FF00&center=true&multiline=false&width=1000&height=40&lines=Technology+Stack" alt="Typing SVG" /></a>
+
 <table align="center">
   <tr>
     <td>
@@ -78,3 +80,46 @@
     </td>
   </tr>
 </table>
+
+#
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=500&duration=1000&pause=1000&color=ADFF00&background=5828FF00&center=true&multiline=false&width=1000&height=40&lines=Artistic+Skillset" alt="Typing SVG" /></a>
+
+
+<table align="center">
+  <tr>
+    <td>
+<pre>
+<b>Traditional</b><br>
+<i>Mediums:</i>
+• Graphite Pencils
+• Colored Pencils
+• Watercolor<br>
+<i>Specialty:</i>
+• Fine Art Portraits
+• Realistic Sketching
+</pre>
+    </td>
+
+  <td>
+<pre>
+<b>Digital Media</b><br>
+<i>Software & Apps:</i>
+• Ibis Paint x
+• Krita
+• Canva<br>
+<i>Focus:</i>
+• Digital Illustration
+• Graphic Design
+• Social Media Assets
+</pre>
+    </td>
+<td>
+ <img src="https://github.com/j-nollora/j-nollora/blob/db6be471badd5dad144ba1aed4fbfd3a537d6bf3/assets/https.webp" width="100%" />
+</td>
+ 
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github.com/j-nollora/j-nollora/blob/0d0522304823b2ae3e4d0cd643ed7ae2d1e35662/assets/line%20green.jpg" width="100%" height="10%" align="right" />
+</div>
