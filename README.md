@@ -1,3 +1,1 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=500&duration=1000&pause=1000&color=ADFF00&background=5828FF00&center=true&multiline=true&width=550&height=100&lines=Hi!+Hello!+Get+to+know+me%E2%80%94;Name+is+J%2C+your+future+tech+entrepreneur.;%F0%9F%8D%8F%F0%9F%8D%8F%F0%9F%8D%8F)](https://git.io/typing-svg)
