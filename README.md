@@ -25,6 +25,60 @@
   <img src="https://github.com/j-nollora/j-nollora/blob/0d0522304823b2ae3e4d0cd643ed7ae2d1e35662/assets/line%20green.jpg" width="100%" height="10%" align="right" />
 </div>
 
-
-
-
+<table align="center">
+  <tr>
+    <td>
+      <pre><code>languages: {
+        basics: [
+          "Python",
+          "Java",
+          "JavaScript"
+        ],
+        backend: [
+          "PHP"
+        ]
+      }</code></pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,java,js,php&perline=1" />
+    </td>
+    <td>
+      <pre><code>full_stack: {
+        frontend: [
+          "HTML5",
+          "CSS3"
+        ],
+        backend_db: [
+          "MySQL",
+          "XAMPP"
+        ],
+        design: [
+          "UI/UX",
+          "Graphic Arts"
+        ]
+      }</code></pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,mysql,xampp&perline=2" />
+    </td>
+    <td>
+      <pre><code>tools_env: {
+        editors_ides: [
+          "VS Code",
+          "PyCharm",
+          "Eclipse"
+        ],
+        db_management: [
+          "MySQL Workbench"
+        ],
+        deployment: [
+          "GitHub",
+          "Vercel"
+        ]
+      }</code></pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,mysql,github,vercel&perline=2" />
+    </td>
+  </tr>
+</table>
