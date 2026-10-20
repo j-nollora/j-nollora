@@ -14,7 +14,7 @@
 
 ### *﹒宅₊ meet J — the jack of all trades ˚∘˚*
 ###### ‎  ‎ ‎  ‎ ‎  ‎ ‎  *Greetings to you, the one who came to my acquaintance! You must be here to get to know me. News flash! You’re in the right place.* 
-###### ‎  ‎ ‎  ‎ ‎  ‎ ‎  *For the introductions, I’m Janelyn G. Nollora. I prefer you’d call me J. Anyhow, any respectful name works for me. You can even all a dreamer. Because I dream BIG—just like the big letter J. And a self-proclaimed Jack of all Trades, such as myself, is an aspiring student in UI/UX design, front-end layout, and back-end logic.*
+###### ‎  ‎ ‎  ‎ ‎  ‎ ‎  *For the introductions, I’m Janelyn G. Nollora. I prefer you’d call me J. Anyhow, any respectful name works for me. You can even call me a dreamer. Because I dream BIG—just like the big letter J. And a self-proclaimed Jack of all Trades, such as myself, is an aspiring student in UI/UX design, front-end layout, and back-end logic.*
 
 #
 
